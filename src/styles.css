@@ -1,0 +1,60 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+
+body {
+  font-family: sans-serif;
+}
+
+table {
+  border: 1px solid black;
+  background-color: #f1f1c1;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: center;
+}
+
+tr {
+  width: 60px;
+  height: 60px;
+}
+
+tr :hover {
+  background-color: #999282;
+}
+
+.selected {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+.w3-container {
+  color: #000;
+  width: 306px;
+}
+
+.w3-center {
+  text-align: center !important;
+}
+
+.w3-green {
+  color: #fff !important;
+  background-color: #4caf50 !important;
+}
+
+.w3-round-large {
+  border-radius: 8px;
+}
+
+.w3-light-grey {
+  color: #000 !important;
+  background-color: #f1f1f1;
+  width: 306px;
+  padding: 3px;
+}
